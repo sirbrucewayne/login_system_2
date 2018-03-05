@@ -1,0 +1,177 @@
+<style type="text/css">
+			.style1{
+				margin:0 ;
+			}
+			header nav{
+				width:100%;
+				height:70px;
+                 background-color:black;
+			}
+			header nav ul{
+                  float:left;
+			}
+			header nav ul li{
+				float :left;
+				list-style: none;
+			}
+			header nav ul li a{
+				color: red;
+			}
+			body{
+				background-color:white;
+			}
+			a{
+				text-decoration: none;
+			}
+			header .login{
+				float:right;
+			}
+			header .login form{
+				float: left;
+				margin-right: 100px;
+				margin-top: 13px;
+			}
+			header .login form input{
+				float:left;
+				width:150px;
+				height:30px;
+				padding:0px 10px;
+				margin-right: 10px;
+				border: none;
+				border-radius: 4px;
+				background-color:lightgreen;
+				font-size: 14px;
+				color:white;
+
+			}
+			header .login form button{
+				float:left;
+				width:60px;
+				height:30px;
+				border:none;
+				border-radius: 4px;
+				background-color:lightgreen;
+				font-size: 14px;
+				color:blue;
+				cursor:pointer;
+			}
+			header .login form button:hover{
+				background-color: powderblue;
+			}
+			header .login a {
+				display:block;
+				width:80px;
+				height:30px;
+				border:none;
+				float: left;
+				background-color:lightgreen;
+				font-size:20px;
+				color:blue;
+				margin-right: 50px;
+				margin-top: 13px;
+			    text-align: center;
+			cursor:pointer;
+			}
+			.signup form{
+
+				margin-left:500px;
+				margin-top: 100px;
+
+				margin-right: 700px;
+				
+			}
+			.signup form input{
+				margin-left:150px;
+				margin-bottom: 5px;
+				margin-right: 150px;
+				padding: 0px 5%;
+				width:90%;
+				height:40px;
+				border-radius: 4px;
+				background-color: lightgreen;
+				color:black;
+				border:none;
+				font-size: 16px;
+			}
+		   .signup form button{
+		   	    display:block;
+		   	    margin-left:240px ;
+				width:80px;
+				height:40px;
+				border:none;
+				border-radius: 4px;
+				background-color:lightgreen;
+				font-size: 16px;
+				color:blue;
+				cursor:pointer;
+			}
+
+
+
+			.style3{
+			margin-top: 30px;
+			margin-left: 30px;
+			font-family: Arial;
+			font-size: 40px;
+			color:black;
+
+		
+		}
+		.style4 button{
+			margin-left:600px;
+			margin-bottom:4px; 
+			color:lightgrey;
+			background-color: black;
+			border:none;
+		    width:100px;
+			height:40px; 
+		}
+
+		.style5 button{
+			color:lightgrey;
+			background-color: black;
+			border:none;
+			margin-top: 0px;
+			margin-left:600px;
+		    width:100px;
+			height:40px; 
+		}
+        .style6 button{
+			color:lightgrey;
+			background-color: black;
+			border:none;
+			margin-top: -60px;
+			margin-left:1350px;
+		    width:100px;
+			height:40px; 
+		}
+
+
+
+
+		.style04{
+          		text-align: center;
+          		margin-top: 230px;
+          		font-size: 50px;
+          		color:grey;
+          	}
+          	.style05{
+
+          		color:white;}
+          	header nav ul li{
+          		list-style: none;
+          	}
+          	header .style05 form button{
+                width:170px;
+				height:40px;
+				background-color:lightgreen;
+				font-size: 14px;
+				color:white;
+				border:none;
+				cursor:pointer;
+          	}
+          	#text{
+          		margin-left:600px;
+          		margin-top: 100px; 
+          	}
+		</style>
